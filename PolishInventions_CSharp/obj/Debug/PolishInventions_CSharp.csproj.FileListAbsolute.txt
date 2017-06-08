@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\bin\Debug\PolishInventions_CSharp.exe.config
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\bin\Debug\PolishInventions_CSharp.exe
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\bin\Debug\PolishInventions_CSharp.pdb
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\bin\Debug\CsvHelper.dll
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\bin\Debug\CsvHelper.xml
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\obj\Debug\PolishInventions_CSharp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\obj\Debug\PolishInventions_CSharp.exe
+\\Mac\Home\Desktop\PolishInventions_CSharp\PolishInventions_CSharp\obj\Debug\PolishInventions_CSharp.pdb
